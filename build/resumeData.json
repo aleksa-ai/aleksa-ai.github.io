@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"Aleksa Gavrilovic",
+    "occupation":"Full-Stack Software Engineer",
+    "description":". Lighthouse Labs graduate. NodeJS, ReactJS, Ruby on Rails, Express, EJS, JQuery, SQL, and more",
+    "image":"profilepic.jpg",
+    "bio":"I am a full-stack software engineer with an extensive digital marketing background. In my last work experience, I got to work in the tech industry where I discovered a passion for product creation. After completing Lighthouse Labs' coding bootcamp, looking to challenge my newly acquired skills and kickstart my software engineer career. Particularly curious about disruptive technologies.",
+    "contactmessage":"Interested in working together? Let's connect.",
+    "email": "lks.gvc@gmail.com",
+    "phone": "",
+    "address":{
+      "city":"Montréal",
+      "state":"Québec",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1xM0dKs8C9PE3C7eZ6dnzrW-s2EpfJbs5/view",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aleksa-gavrilovic/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/aleksa-ai",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:lks.gvc@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
+        "name":"twitter",
+        "url":"Coming soon!",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Lighthouse Labs",
+        "degree":"Full-Stack Web Development Diploma",
+        "graduated":"February 2021",
+        "description":"In addition to learning crucial frameworks like Express, NodeJS, React.js, Ruby on Rails, PostgreSQL, and others, Lighthouse Labs helped acquire key skills, including UI/UX design, project management, and product creation."
+      },
+      {
+        "school":"HEC Montréal",
+        "degree":"Bachelor of Business Administration",
+        "graduated":"May 2017",
+        "description":"This highly reputed trilingual bachelor's degree equipped me with fundamentals of business administration, and a specialization in marketing. I also got to consolidate my knowledge of Spanish in addition to my natve proficiency of English and French."
+      }
+    ],
+    "work":[
+      {
+        "company":"Mediaclip",
+        "title":"Digital Growth Strategist",
+        "years":"August 2018 - November 2020",
+        "description":"Define, implement, and optimize the digital marketing strategy responsible for customer acquisition growth of this leading product personalization software developer. Successfully drive marketing qualified lead acquisition growth by 50% in 2020 with top performing Google, LinkedIn & Facebook Ads, top ranking content, and effective email marketing. Deliver and maintain an array of projects, including GDPR compliance, integration with marketing automation tools, and search engine optimization (SEO) of company website and content."
+      },
+      {
+        "company":"SpaceNK",
+        "title":"Regional Brand Manager",
+        "years":"September 2015 - December 2017",
+        "description":"Increase the income of Québec-based accounts by a yearly average of 20% for this British luxury cosmetics distributor and retailer. Adapt all aspects of the North American business strategy to the peculiarities of the predominantly francophone market. Develop and consolidate influencer & retail partnerships. Successfully deliver an impactful launch of the Lipstick Queen brand on the Montréal market."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"85%"
+      },
+      {
+        "name":"React.js",
+        "level":"75%"
+      },
+      {
+        "name":"Ruby on Rails",
+        "level":"45%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"70%"
+      },
+      {
+        "name":"Material-UI",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fernvee",
+        "category":"A time-saving trip planning app where the user can select pre-made trip plans or create their own.",
+        "image":"fernvee.gif",
+        "url":"https://github.com/aleksa-ai/Fernvee"
+      },
+      {
+        "title":"Interview Scheduler",
+        "category":"A scheduler in which the user can create, edit and delete interview appointments.",
+        "image":"scheduler.png",
+        "url":"https://github.com/aleksa-ai/scheduler"
+      },
+      {
+        "title":"Tweeter",
+        "category":"A simple, single-page Twitter clone with jQuery and AJAX.",
+        "image":"tweeter.png",
+        "url":"https://github.com/aleksa-ai/tweeter"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Doing the best at this moment puts you in the best place for the next moment.",
+        "user":"Oprah Winfrey"
+      },
+      {
+        "text":"Persistence is very important. You should not give up unless you are forced to give up.",
+        "user":"Elon Musk"
+      }
+    ]
+  }
+}
