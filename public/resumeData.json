@@ -1,147 +1,135 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Aleksa Gavrilovic",
+    "occupation":"Full-Stack Software Engineer",
+    "description":". Lighthouse Labs graduate. NodeJS, ReactJS, Ruby on Rails, Express, EJS, JQuery, SQL, and more",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I am a full-stack software engineer with an extensive digital marketing background. In my last work experience, I got to work in the tech industry where I discovered a passion for product creation. After completing Lighthouse Labs' coding bootcamp, looking to challenge my newly acquired skills and kickstart my software engineer career. Particularly curious about disruptive technologies.",
+    "contactmessage":"Interested in working together? Let's connect.",
+    "email": "lks.gvc@gmail.com",
+    "phone": "",
     "address":{
-      "city":"(Your City)",
-      "state":"(Your State)",
+      "city":"Montréal",
+      "state":"Québec",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1xM0dKs8C9PE3C7eZ6dnzrW-s2EpfJbs5/view",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/aleksa-gavrilovic/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/aleksa-ai",
         "className":"fa fa-github"
       },
       {
         "name":"email",
-        "url":"",
+        "url":"mailto:lks.gvc@gmail.com",
         "className":"fa fa-envelope"
       },
       {
         "name":"twitter",
-        "url":"",
+        "url":"Coming soon!",
         "className":"fa fa-twitter"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Lighthouse Labs",
+        "degree":"Full-Stack Web Development Diploma",
+        "graduated":"February 2021",
+        "description":"In addition to learning crucial frameworks like Express, NodeJS, React.js, Ruby on Rails, PostgreSQL, and others, Lighthouse Labs helped acquire key skills, including UI/UX design, project management, and product creation."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"HEC Montréal",
+        "degree":"Bachelor of Business Administration",
+        "graduated":"May 2017",
+        "description":"This highly reputed trilingual bachelor's degree equipped me with fundamentals of business administration, and a specialization in marketing. I also got to consolidate my knowledge of Spanish in addition to my natve proficiency of English and French."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Mediaclip",
+        "title":"Digital Growth Strategist",
+        "years":"August 2018 - November 2020",
+        "description":"Define, implement, and optimize the digital marketing strategy responsible for customer acquisition growth of this leading product personalization software developer. Successfully drive marketing qualified lead acquisition growth by 50% in 2020 with top performing Google, LinkedIn & Facebook Ads, top ranking content, and effective email marketing. Deliver and maintain an array of projects, including GDPR compliance, integration with marketing automation tools, and search engine optimization (SEO) of company website and content."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"SpaceNK",
+        "title":"Regional Brand Manager",
+        "years":"September 2015 - December 2017",
+        "description":"Increase the income of Québec-based accounts by a yearly average of 20% for this British luxury cosmetics distributor and retailer. Adapt all aspects of the North American business strategy to the peculiarities of the predominantly francophone market. Develop and consolidate influencer & retail partnerships. Successfully deliver an impactful launch of the Lipstick Queen brand on the Montréal market."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"JavaScript",
+        "level":"85%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"React.js",
+        "level":"75%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Ruby on Rails",
+        "level":"45%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"90%"
       },
       {
-        "name":"VueJs",
+        "name":"PostgreSQL",
+        "level":"70%"
+      },
+      {
+        "name":"Material-UI",
         "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Fernvee",
+        "category":"A time-saving trip planning app where the user can select pre-made trip plans or create their own.",
+        "image":"fernvee.gif",
+        "url":"https://github.com/aleksa-ai/Fernvee"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Interview Scheduler",
+        "category":"A scheduler in which the user can create, edit and delete interview appointments.",
+        "image":"scheduler.png",
+        "url":"https://github.com/aleksa-ai/scheduler"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Tweeter",
+        "category":"A simple, single-page Twitter clone with jQuery and AJAX.",
+        "image":"tweeter.png",
+        "url":"https://github.com/aleksa-ai/tweeter"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Doing the best at this moment puts you in the best place for the next moment.",
+        "user":"Oprah Winfrey"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Persistence is very important. You should not give up unless you are forced to give up.",
+        "user":"Elon Musk"
       }
     ]
   }
