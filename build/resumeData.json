@@ -4,7 +4,7 @@
     "occupation":"Full-Stack Software Engineer",
     "description":". Startup Experience. NodeJS, ReactJS, TypeScript, Ruby on Rails, Express, EJS, JQuery, SQL, & more",
     "image":"profilepic.jpg",
-    "bio":"I am a full-stack software engineer with an extensive digital marketing background. After completing the Lighthouse Labs coding bootcamp, I went on to work for NYC-based start up Curacity, the leading booking platform for content creators. Quickly, my newly acquired skills were put in practice, and I got to kickstart my web development career. Particularly curious about disruptive technologies.",
+    "bio":"I am a full-stack software engineer with an extensive digital marketing background. After completing the Lighthouse Labs coding bootcamp, I went on to work for NYC-based start up Curacity, the leading booking platform for content creators. Quickly after bootcamp, my skills were put in practice, and I got to kickstart my web development career. Particularly curious about disruptive technologies.",
     "contactmessage":"Interested in working together? Let's connect.",
     "email": "lks.gvc@gmail.com",
     "phone": "",
@@ -14,7 +14,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://aleksa-ai.github.io/",
-    "resumedownload":"https://drive.google.com/file/d/1zoK872MigeWlvZU8cnBTaQKeh2yLffGr/view",
+    "resumedownload":"https://drive.google.com/file/d/1Flfy9gmV3na5UaMqQN_XfzvEabxWoLEU/view",
     "social":[
       {
         "name":"linkedin",
@@ -58,7 +58,7 @@
       {
         "company":"Curacity",
         "title":"Jr Full Stack Engineer",
-        "years":"April 2021 - September 2021",
+        "years":"April 2021 - Now",
         "description":"Full stack development of booking platform using ReactJS, Node, TypeScript, MySQL, and more. Ownership of new product features (UX design, impact). Optimizing key user flows end to end. QA: reviewing, testing and debugging code."
       },
       {
