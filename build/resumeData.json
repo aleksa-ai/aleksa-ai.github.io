@@ -2,19 +2,19 @@
   "main": {
     "name":"Aleksa Gavrilovic",
     "occupation":"Full-Stack Software Engineer",
-    "description":". Startup Experience. NodeJS, ReactJS, TypeScript, Ruby on Rails, Express, EJS, JQuery, SQL, & more",
+    "description":". Cross-industry & Startup Experience. NodeJS, ReactJS, SQL, TypeScript, Express, EJS, JQuery, SQL, Ruby on Rails & more",
     "image":"profilepic.jpg",
-    "bio":"I am a full-stack software engineer with an extensive digital marketing background. After completing the Lighthouse Labs coding bootcamp, I went on to work for NYC-based start up Curacity, the leading booking platform for content creators. Quickly after bootcamp, my skills were put in practice, and I got to kickstart my web development career. Particularly curious about disruptive technologies.",
+    "bio":"I am a full-stack engineer with an extensive digital marketing background. After completing the Lighthouse Labs coding bootcamp, I went on to work for NYC-based start up Curacity, the rising booking platform for content creators. Currently heading web development and implementation of marketing technologies for Matrox Video, a video hardware & software industry leader. Particularly curious about disruptive technologies.",
     "contactmessage":"Interested in working together? Let's connect.",
     "email": "lks.gvc@gmail.com",
     "phone": "",
     "address":{
       "city":"Montréal",
-      "state":"Québec",
+      "state":"New York City",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://aleksa-ai.github.io/",
-    "resumedownload":"https://drive.google.com/file/d/1Flfy9gmV3na5UaMqQN_XfzvEabxWoLEU/view",
+    "resumedownload":"https://drive.google.com/file/d/19PA1OcXXEpuy2uEX_hHNhKm2urVQi9jv/view",
     "social":[
       {
         "name":"linkedin",
